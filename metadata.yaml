@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '39128'
     url: http://www.gutenberg.org/2009/agents/39128
     wikipedia: https://fi.wikipedia.org/wiki/Maila_Talvio
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Frenssen, Gustav
@@ -21,6 +24,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Gustav_Frenssen
     - https://de.wikipedia.org/wiki/Gustav_Frenssen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71083#Anna-Hollmannin-havio-b-Kertomus
 gutenberg_issued: '2023-07-01'
 identifiers:
   gutenberg: '71083'
